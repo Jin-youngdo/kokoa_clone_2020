@@ -26,3 +26,15 @@
 .status-bar__column .fa-battery-full {
   margin: 0px 5px;
 }
+
+@keyframes boltFlash {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.fa-bolt {
+  animation: boltFlash 1.5s linear infinite;
+}
