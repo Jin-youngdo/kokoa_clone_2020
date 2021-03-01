@@ -38,6 +38,14 @@
   color: rgba(0, 0, 0, 0.5);
 }
 
+.friends-screen__Friends-header {
+  padding: 12px 0px;
+  color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: space-between;
+  border-top: var(--main-border);
+}
+
 @keyframes hideSplashScreen {
   from {
     opacity: 1;
