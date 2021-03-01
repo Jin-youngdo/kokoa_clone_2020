@@ -65,11 +65,3 @@
 #comment {
   color: black;
 }
-
-.friends-screen__Freinds-header {
-  padding: 12px;
-  color: rgba(0, 0, 0, 0.5);
-  display: flex;
-  justify-content: space-between;
-  border-top: var(--main-border);
-}
