@@ -1,3 +1,1 @@
-# Kokoa Clone 2020 Update
-
-HTML & CSS got so much fun!
+# Kakao Clone 2021 Update
